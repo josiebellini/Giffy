@@ -1,7 +1,7 @@
 body {
     background: #FFFFFF;
   }
-
+  
   .jumbotron {
    background-color: #FFFFFF;
    width: 100%;
@@ -22,72 +22,72 @@ body {
 }
 
 .animalButton {
-  padding: 10px 20px;
-  font-size: 15px;
-  text-align: center;
-  cursor: pointer;
-  color: #EFEFEF;
-  font-family: 'Quicksand', sans-serif;
-  background-color: #3C7557;
-  border: none;
-  display: inline;
-  margin: 5px 5px;
+ padding: 10px 20px;
+ font-size: 15px;
+ text-align: center;
+ cursor: pointer;
+ color: #EFEFEF;
+ font-family: 'Quicksand', sans-serif;
+ background-color: #3C7557;
+ border: none;
+ display: inline;
+ margin: 5px 5px;
 }
 
 .animalButton:hover {
-  background-color: #6CA892;
+ background-color: #6CA892;
 }
 
 
 #gifPanel {
-  margin: 10px 0px 0px 0px;
+ margin: 10px 0px 0px 0px;
 }
 
 .animalGif {
-  margin: 20px 20px 0px 0px;
-  float: left;
-  position: relative;
-  left: -15px;
-  background-color: #D66C97;
+ margin: 20px 20px 0px 0px;
+ float: left;
+ position: relative;
+ left: -15px;
+ background-color: #D66C97;
 }
 
 .animalGif:hover {
-  background-color: #6CA892;
+ background-color: #6CA892;
 }
 
 .animalGif h2 {
-  font-size: 15px;
-  color: #EFEFEF;
-  font-family: 'Quicksand', sans-serif;
-  text-align: center;
-  position: relative;
-  top: -3px;
+ font-size: 15px;
+ color: #EFEFEF;
+ font-family: 'Quicksand', sans-serif;
+ text-align: center;
+ position: relative;
+ top: -3px;
 }
 
 
 .formPanel {
-  position: relative;
-  top: 30px;
-  right: 35px;
-  background-color: #D66C97;
-  height: 145px;
+ position: relative;
+ top: 30px;
+ right: 35px;
+ background-color: #D66C97;
+ height: 145px;
 }
 
 .inputLabel {
-  font-size: 15px;
-  color: #EFEFEF;
-  font-family: 'Quicksand', sans-serif;
-  margin: 15px 0px;
-  margin-left: 32px;
+ font-size: 15px;
+ color: #EFEFEF;
+ font-family: 'Quicksand', sans-serif;
+ margin: 15px 0px;
+ margin-left: 32px;
 }
 
 #animal-input {
-  width: 137px;
-  margin-left: 15px;
+ width: 137px;
+ margin-left: 15px;
 }
 
 #animal-input:focus {
-  background-color: #6CA892;
+ background-color: #6CA892;
 }
 
 #add-animal {
